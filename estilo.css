@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+background-color: rgb(140, 252, 75);
+}
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+a{
+    padding: 15px;
+}
+a:hover{
+    background-color: rgb(4, 49, 228);
+    color: rgb(140, 252, 75);
+}
+
+li{
+    list-style-type: none;
+}
